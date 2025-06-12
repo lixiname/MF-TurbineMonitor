@@ -6,16 +6,13 @@
     </div>
     <div class="header-left">
       <i class="fa-regular fa-envelope"></i>
-      <div
-        class="message"
-        content="【系统通知】感谢大家对我们项目的关注与支持!希望能为我们的项目点一个Star,您的支持对我们来说至关重要。"
-      ></div>
+      <div class="message" content="【系统通知】项目测试中。。。"></div>
     </div>
     <div class="header-right">
       <span>{{ state.time }}</span>
       <span>{{ state.date }}</span>
       <span>{{ state.week }}</span>
-      <span>13°c</span>
+      <span>23°c</span>
     </div>
   </div>
 </template>
