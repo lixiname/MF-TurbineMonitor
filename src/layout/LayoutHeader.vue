@@ -1,8 +1,8 @@
 <template>
   <div class="layout-header">
     <div class="header-midden">
-      <div class="cn">大型风力发电机监控平台</div>
-      <div class="en">Large Wind Turbine Monitoring Platform</div>
+      <div class="cn">智能过滤机监控平台</div>
+      <!-- <div class="en">Large Wind Turbine Monitoring Platform</div> -->
     </div>
     <div class="header-left">
       <i class="fa-regular fa-envelope"></i>
